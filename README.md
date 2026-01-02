@@ -1,5 +1,6 @@
 # Smart-assistant-for-summarizing-texts-in-Arabic
 # Arabic Text Summarization Project
+ملاحظة هذه ليست النسخة النهائية ممكن ان يتم التعديل على الاطروحة والعرض التقديمي!!!!!!!!!!!
 
 هذا المشروع يحتوي على نموذج AraT5v2 لتلخيص النصوص العربية.  
 يتضمن:
